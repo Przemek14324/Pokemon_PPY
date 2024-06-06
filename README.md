@@ -9,8 +9,7 @@ Projekt gry Pokémon w Pythonie, który symuluje walki Pokémonów z różnymi s
 # Pliki w Projekcie
 main.py: Główny skrypt uruchamiający grę i obsługujący interakcje gracza.
 
-#Instrukcja Obsługi
-
+# Instrukcja Obsługi
 Uruchom main.py:
 Po uruchomieniu, zobaczysz menu, które pozwoli Ci wybrać swoje Pokemony do walki oraz rozpocząć bitwę.
 
